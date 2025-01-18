@@ -60,17 +60,39 @@ Observe the ticket as Help Desk Agent, make sure to observe the ticket's propert
 <p>
 <img src="https://i.imgur.com/rNHiKBA.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
-<p>
-<p>
-  -Priority  High
-  </p>
-	-Department  Support
-  </p>
-	-SLA  Sev-A (1 hour, 24/7)
-  </p>
-	-Assigned To  Online Banking
 
+
+<p>
+  -Priority  	High
+	
+  </p>
+	-Department 	 Support
+ 
+  </p>
+	-SLA  	Sev-A (1 hour, 24/7)
+ 
+  </p>
+	-Assigned To  	Online Banking
+ </p>
+<br />
+
+<p>
+<img src="https://i.imgur.com/irZopNn.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+
+<p>
+<img src="https://i.imgur.com/BzmbXZA.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+
+<p>
+Communicate and Work the ticket as as Help Desk Agent.
 </p>
 <br />
 
-
+<p>
+<img src="https://i.imgur.com/n0admRj.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+Resolve the ticket as as Help Desk Agent.
+</p>
+<br />
