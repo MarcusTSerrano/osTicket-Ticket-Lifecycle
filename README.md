@@ -39,19 +39,37 @@ Creating a ticket as an end-user.
 <br />
 
 <p>
-<img src="https://i.imgur.com/88p7Ccs.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/UMrEa8J.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
 Observe the ticket as Help Desk Agent, make sure to observe the ticket's properties
-  
+</p>
+
+<p>
+  -Priority
+  </p>
+	-Department
+  </p>
+	-SLA
+  </p>
+	-Assigned To
+
 </p>
 <br />
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/rNHiKBA.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+<p>
+  -Priority  High
+  </p>
+	-Department  Support
+  </p>
+	-SLA  Sev-A (1 hour, 24/7)
+  </p>
+	-Assigned To  Online Banking
+
 </p>
 <br />
 
