@@ -1,4 +1,3 @@
-# osTicket-Ticket-Lifecycle
 <p align="center">
 <img src="https://i.imgur.com/Clzj7Xs.png" alt="osTicket logo"/>
 </p>
@@ -56,6 +55,9 @@ Observe the ticket as Help Desk Agent, make sure to observe the ticket's propert
 <img src="https://i.imgur.com/rNHiKBA.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 
+<p>
+Set Appropriate Properties to the ticket
+</p>
 
 <p>
   -Priority  	High
