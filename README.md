@@ -24,7 +24,7 @@ This tutorial outlines the lifecycle of a ticket from creation to resolution wit
 
 <h2>Lifecycle Stages</h2>
 
-<h2>Part One 1</h2>
+<h2>Step One 1</h2>
 
 <p>
 <img src="https://i.imgur.com/2VcDuxA.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
