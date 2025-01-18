@@ -23,10 +23,10 @@ This tutorial outlines the lifecycle of a ticket from intake to resolution withi
 
 <h2>Ticket Lifecycle Stages</h2>
 
-- Intake
-- Assignment and Communication
-- Working the Issue
-- Resolution
+- Ticket Creation
+- Recievement and Assignment
+- Communication and Working the Ticket
+- Ticket Resolution
 
 <h2>Lifecycle Stages</h2>
 
