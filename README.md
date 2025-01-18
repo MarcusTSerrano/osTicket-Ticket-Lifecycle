@@ -24,6 +24,8 @@ This tutorial outlines the lifecycle of a ticket from creation to resolution wit
 
 <h2>Lifecycle Stages</h2>
 
+<h2>Part One 1</h2>
+
 <p>
 <img src="https://i.imgur.com/2VcDuxA.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
@@ -31,6 +33,8 @@ This tutorial outlines the lifecycle of a ticket from creation to resolution wit
 Creating a ticket as an end-user.
 </p>
 <br />
+
+<h2>Part Two 2</h2>
 
 <p>
 <img src="https://i.imgur.com/UMrEa8J.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
@@ -73,6 +77,8 @@ Set Appropriate Properties to the ticket
  </p>
 <br />
 
+<h2>Part Three 3</h2>
+
 <p>
 <img src="https://i.imgur.com/irZopNn.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
@@ -85,6 +91,8 @@ Set Appropriate Properties to the ticket
 Communicate and Work the ticket as as Help Desk Agent.
 </p>
 <br />
+
+<h2>Part Four 4</h2>
 
 <p>
 <img src="https://i.imgur.com/n0admRj.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
