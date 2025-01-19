@@ -13,7 +13,7 @@ This tutorial outlines the lifecycle of a ticket from creation to resolution wit
 
 <h2>Operating Systems Used </h2>
 
-- Windows 10</b> (21H2)
+- Windows 10 Pro (22H2), at least 2vCPUs, 8GB RAM
 
 <h2>Ticket Lifecycle Stages</h2>
 
